@@ -13,3 +13,5 @@ app/app.iml
 /build
 /captures
 .externalNativeBuild
+.lock
+.bin
