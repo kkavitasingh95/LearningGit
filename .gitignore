@@ -1,5 +1,4 @@
 *.iml
-*.gradle
 .gradle
 app/app.iml
 /local.properties
@@ -13,5 +12,3 @@ app/app.iml
 /build
 /captures
 .externalNativeBuild
-*.lock
-*.bin
